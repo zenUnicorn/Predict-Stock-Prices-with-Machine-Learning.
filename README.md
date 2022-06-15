@@ -63,7 +63,7 @@ plt.legend(['Train', 'Val', 'Prediction' ], loc='upper left')
 plt.show()
 ```
 
-Check the Filename: `hrhrjjr` for the full code.
-Please star this repo
+## Check the Filename: `Stock_price_prediction.ipynb` for the full code.
+### Please star this repo
 
-Happy Hacking!
+### Happy Hacking!
