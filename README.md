@@ -63,7 +63,7 @@ plt.legend(['Train', 'Val', 'Prediction' ], loc='upper left')
 plt.show()
 ```
 
- Check the Filename: `Stock_price_prediction.ipynb` for the full code.
+ Check the Filename: `[Stock_price_prediction.ipynb](https://github.com/zenUnicorn/Predict-Stock-Prices-with-Machine-Learning./blob/main/Stock_price_prediction.ipynb)` for the full code.
  
  Please star this repo
 
